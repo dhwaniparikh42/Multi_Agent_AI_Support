@@ -1,4 +1,6 @@
-from fastapi import FastAPI  
+import asyncio
+
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from contextlib import asynccontextmanager
@@ -17,8 +19,9 @@ models.Base.metadata.create_all(bind=engine)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Pre-load the RAG vector store so the first request is not slow
-    load_vector_store()
+    # Load the RAG vector store in the background so the server can bind
+    # its port immediately instead of blocking on model download/embedding
+    asyncio.create_task(asyncio.to_thread(load_vector_store))
     yield
 
 
