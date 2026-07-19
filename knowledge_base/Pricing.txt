@@ -1,0 +1,92 @@
+TECHMART ELECTRONICS - PRODUCT PRICING GUIDE
+============================================
+
+LAPTOP HARDWARE - PROBOOK SERIES
+Model                                | Price (USD)
+ProBook Lite                         | $599
+ProBook X1                           | $899
+ProBook X2                           | $1,199
+ProBook X2 Pro (16 GB RAM upgrade)   | $1,399
+
+---
+
+SOFTWARE SUBSCRIPTION PLANS - MONTHLY BILLING
+Plan                    | Monthly Price
+Basic                   | $9.99 per month
+Pro                     | $29.99 per month
+Premium                 | $49.99 per month
+Enterprise (per seat)   | $15.00 per user per month
+
+---
+
+SOFTWARE SUBSCRIPTION PLANS - ANNUAL BILLING (SAVE 20%)
+Plan              | Annual Price
+Basic Annual      | $95.90 per year
+Pro Annual        | $287.90 per year
+Premium Annual    | $479.90 per year
+
+Annual plans are billed as a single upfront payment. They can be cancelled within 30 days
+for a prorated refund of unused months.
+
+---
+
+ACCESSORIES
+Accessory                           | Price (USD)
+TechMart Wireless Mouse             | $29.99
+TechMart Mechanical Keyboard        | $79.99
+USB-C Docking Station (7-in-1)      | $59.99
+ProBook Laptop Bag (15 inch)        | $39.99
+65W USB-C Charger                   | $34.99
+Privacy Screen Filter (15 inch)     | $24.99
+TechMart Webcam HD 1080p            | $49.99
+Laptop Stand (Adjustable)           | $44.99
+
+---
+
+EXTENDED WARRANTY PRICING
+Plan                                          | Price (USD)
+TechMart Care+ 2-Year                        | $79.99
+TechMart Care+ 3-Year                        | $129.99
+TechMart Care+ 3-Year with Accidental Damage | $179.99
+
+---
+
+VOLUME AND BUSINESS DISCOUNTS
+Quantity          | Discount
+5-9 units         | 5% off
+10-24 units       | 10% off
+25-49 units       | 15% off
+50 or more units  | Contact sales@techmart.example for custom pricing
+
+Business accounts also receive:
+- Dedicated account manager
+- Priority support queue
+- Consolidated invoicing
+- Net 30 payment terms (approved accounts only)
+
+---
+
+STUDENT DISCOUNT
+Students with a valid university or college email address receive 10% off all hardware purchases.
+To apply: use your .edu email when registering, or submit verification at techmart.example/student.
+
+---
+
+GIFT CARDS
+TechMart Gift Cards are available in denominations of $25, $50, $100, $200, and $500.
+Gift cards do not expire and can be used for any product or subscription.
+Gift cards cannot be exchanged for cash.
+
+---
+
+TAXES AND FEES
+All listed prices are exclusive of applicable taxes.
+Sales tax is calculated at checkout based on your shipping address.
+International orders may be subject to import duties and customs fees (buyer's responsibility).
+
+---
+
+PRICE MATCH GUARANTEE
+TechMart will match the price of any identical product sold by an authorised retailer.
+Submit a price match request at techmart.example/price-match within 7 days of purchase.
+Price matching does not apply to limited-time flash sales, marketplace sellers, or used items.

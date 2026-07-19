@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "code-review-graph": {
+      "command": "C:\\Users\\dhwan\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": [
+        "-m",
+        "code_review_graph",
+        "serve"
+      ],
+      "cwd": "C:\\Users\\dhwan\\Desktop\\Labmentix\\Multi-Agent AI Customer Support Assistant using RAG and LLMs\\multi_agent_ai_support",
+      "type": "stdio"
+    }
+  }
+}

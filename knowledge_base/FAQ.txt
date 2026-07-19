@@ -1,0 +1,90 @@
+TECHMART ELECTRONICS - FREQUENTLY ASKED QUESTIONS
+==================================================
+
+ABOUT TECHMART ELECTRONICS
+TechMart Electronics is a leading retailer of laptops, accessories, and software subscriptions.
+We serve customers worldwide with fast shipping, dedicated support, and a comprehensive warranty programme.
+
+---
+
+Q1. What products does TechMart sell?
+TechMart offers the ProBook laptop series (ProBook Lite, ProBook X1, ProBook X2), software subscription
+plans (Basic, Pro, Premium), and accessories such as mice, keyboards, docking stations, and laptop bags.
+
+---
+
+Q2. How do I contact customer support?
+- Email: support@techmart.example
+- Phone: 1-800-555-0100 (Monday to Friday, 9 am - 6 pm EST)
+- Live Chat: Available on our website during business hours
+- Help Center: help.techmart.example (24/7 self-service)
+
+---
+
+Q3. What are your business hours?
+Our support team is available Monday to Friday, 9:00 am to 6:00 pm Eastern Standard Time.
+Our automated Help Center is available 24 hours a day, 7 days a week.
+
+---
+
+Q4. How do I create an account?
+Visit techmart.example and click Sign Up. Enter your name, email address, and a password of at
+least 8 characters. You will receive a verification email within 2 minutes. Click the link in
+that email to activate your account.
+
+---
+
+Q5. How do I track my order?
+Once your order ships, you will receive a confirmation email with a tracking number.
+You can track your package on the carrier website or in your TechMart account under My Orders.
+Tracking updates are available within 24 hours of shipping.
+
+---
+
+Q6. What payment methods do you accept?
+- Credit/Debit cards: Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay and Google Pay
+- TechMart Gift Cards
+- Bank transfer (orders above $500 only)
+
+---
+
+Q7. Can I change or cancel my order?
+Orders can be modified or cancelled within 1 hour of placement. After that, the order enters
+fulfilment and cannot be changed. Contact support@techmart.example immediately if you need changes.
+
+---
+
+Q8. How do I reset my password?
+Click Forgot Password on the login page. Enter your account email and click Send. You will receive
+a password reset link within 5 minutes. The link expires after 30 minutes. If you do not receive
+the email, check your spam folder or contact support.
+
+---
+
+Q9. Is my data safe with TechMart?
+Yes. TechMart uses AES-256 encryption for all stored data and TLS 1.3 for data in transit.
+We are GDPR and CCPA compliant. We never sell your personal data to third parties.
+You can request a copy or deletion of your data at privacy@techmart.example.
+
+---
+
+Q10. Do you offer student or business discounts?
+Students with a valid university email receive 10% off hardware purchases.
+Business customers purchasing 5 or more units qualify for volume pricing.
+Contact sales@techmart.example for a custom quote.
+
+---
+
+Q11. How do I cancel my subscription?
+Go to My Products > Manage Subscription > Cancel Plan. Select a cancellation reason and confirm.
+Your subscription remains active until the end of the current paid period. No partial refunds are
+given for the remaining days unless cancelled within 7 days of the billing date.
+
+---
+
+Q12. What is the difference between Basic, Pro, and Premium plans?
+- Basic ($9.99/month): 10 GB storage, 1 device, email support, basic apps
+- Pro ($29.99/month): 100 GB storage, 3 devices, email and chat support, all apps and pro tools
+- Premium ($49.99/month): 1 TB storage, unlimited devices, priority phone support, AI features

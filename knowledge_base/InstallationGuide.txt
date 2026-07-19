@@ -1,0 +1,125 @@
+TECHMART ELECTRONICS - INSTALLATION GUIDE
+==========================================
+
+SYSTEM REQUIREMENTS
+Requirement          | Minimum                      | Recommended
+Operating System     | Windows 10 64-bit            | Windows 11
+Processor            | Intel Core i3 / AMD Ryzen 3  | Intel Core i5 / Ryzen 5
+RAM                  | 4 GB                         | 8 GB or more
+Storage              | 2 GB free space              | 5 GB free space
+Internet             | Required for activation      | Broadband 10 Mbps+
+Browser (Web App)    | Chrome 100+, Firefox 100+    | Latest version of any major browser
+
+---
+
+STEP 1 - DOWNLOAD THE INSTALLER
+Log into your TechMart account at techmart.example.
+Go to My Products and click Download next to your software.
+The installer file will download to your Downloads folder:
+- Windows: TechMartSetup.exe
+- Mac: TechMartSetup.dmg
+- Linux: TechMartSetup.deb or TechMartSetup.rpm
+
+Verify the download by checking the file size matches what is shown on the download page.
+
+---
+
+STEP 2 - RUN THE INSTALLER
+
+Windows:
+Double-click TechMartSetup.exe.
+If prompted by User Account Control (UAC), click Yes to allow the installation.
+Do not cancel at the UAC prompt or the installation will fail.
+
+Mac:
+Open TechMartSetup.dmg.
+Drag the TechMart icon to your Applications folder.
+Open TechMart from the Applications folder.
+If macOS blocks the app, go to System Preferences > Security and Privacy and click Open Anyway.
+
+---
+
+STEP 3 - ACCEPT THE LICENCE AGREEMENT
+Read the End User Licence Agreement (EULA).
+Click I Agree to proceed.
+If you do not agree, click Cancel to exit the installer.
+
+---
+
+STEP 4 - CHOOSE INSTALLATION FOLDER
+The default installation path is:
+- Windows: C:\Program Files\TechMart
+- Mac: /Applications/TechMart
+
+You may click Browse to choose a different location.
+We recommend using the default path to avoid permission issues.
+Click Install to begin. Installation typically takes 2-5 minutes.
+
+---
+
+STEP 5 - ACTIVATE YOUR LICENCE
+Once installed, launch TechMart and sign in with your account credentials.
+Your subscription will activate automatically upon sign-in.
+If activation fails:
+1. Check your internet connection.
+2. Ensure your subscription is active at techmart.example/account.
+3. Check that your system clock shows the correct date and time.
+You may also enter your licence key manually under Settings > Account > Enter Licence Key.
+
+---
+
+STEP 6 - INSTALL UPDATES
+After installation, the application will check for updates automatically.
+Install all available updates before use to ensure best performance and security.
+Updates can also be triggered manually via Help > Check for Updates.
+Auto-updates can be enabled under Settings > General > Automatically install updates.
+
+---
+
+TROUBLESHOOTING COMMON INSTALLATION ERRORS
+
+Error: Installation failed - insufficient permissions
+Solution: Right-click the installer and select Run as Administrator.
+
+Error: VCRUNTIME140.dll is missing
+Solution: Download and install the Microsoft Visual C++ Redistributable 2015-2022
+from the official Microsoft website.
+
+Error: This app cannot run on your PC
+Solution: Ensure you downloaded the correct version. Check if your system is 32-bit or 64-bit
+at Settings > System > About. Download the matching version from techmart.example.
+
+Antivirus blocking installation
+Solution: Temporarily disable real-time protection during installation, then re-enable it.
+Add TechMart to your antivirus whitelist after installation.
+
+Licence activation fails after installation
+Solution: Ensure your subscription is active and your internet connection is working.
+Try logging out and back in. If the issue persists, contact support@techmart.example.
+
+Installation hangs or freezes
+Solution: Wait 10 minutes before force-closing. If still frozen, restart your computer and
+run the installer again. Disable any VPN during installation.
+
+---
+
+SILENT INSTALLATION (FOR IT ADMINISTRATORS)
+Run the installer from command line:
+TechMartSetup.exe /silent /norestart
+
+This installs with default settings and no user interaction. Useful for mass deployment.
+For Group Policy deployment, contact sales@techmart.example for the MSI package.
+
+---
+
+UNINSTALLING TECHMART SOFTWARE
+Windows: Go to Settings > Apps > Installed Apps, find TechMart, and click Uninstall.
+Mac: Open Finder > Applications, right-click TechMart, and select Move to Trash.
+Your account data and cloud-saved files are not deleted when you uninstall.
+
+---
+
+CONTACT FOR INSTALLATION SUPPORT
+Email: support@techmart.example
+Phone: 1-800-555-0100 (Mon-Fri, 9 am - 6 pm EST)
+Live Chat: Available from techmart.example during business hours.

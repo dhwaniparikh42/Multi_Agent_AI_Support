@@ -1,0 +1,30 @@
+# Added by code-review-graph
+.code-review-graph/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# FAISS index (auto-rebuilt on startup)
+backend/rag/faiss_index/
+
+# Database (local only)
+backend/support.db
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db

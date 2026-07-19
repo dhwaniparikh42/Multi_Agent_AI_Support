@@ -1,0 +1,116 @@
+TECHMART ELECTRONICS - PRODUCT CATALOGUE
+=========================================
+
+PROBOOK LITE - $599
+Best for: Students and everyday users who need a lightweight, affordable laptop.
+
+Specifications:
+- Processor: Intel Core i5-1335U (10 cores, up to 4.6 GHz)
+- RAM: 8 GB LPDDR5
+- Storage: 256 GB NVMe SSD
+- Display: 14 inch FHD (1920x1080) IPS, 60 Hz, anti-glare
+- Battery Life: Up to 10 hours
+- Weight: 1.4 kg (3.1 lbs)
+- Operating System: Windows 11 Home
+- Ports: 2x USB-A 3.2, 1x USB-C, HDMI 1.4, 3.5mm audio jack, microSD card reader
+- Connectivity: Wi-Fi 6 (802.11ax), Bluetooth 5.1
+- Webcam: 720p HD
+- Colour: Midnight Black or Arctic Silver
+
+---
+
+PROBOOK X1 - $899
+Best for: Professionals and power users who need strong performance and all-day battery.
+
+Specifications:
+- Processor: Intel Core i7-1355U (10 cores, up to 5.0 GHz)
+- RAM: 16 GB LPDDR5
+- Storage: 512 GB NVMe SSD
+- Display: 15.6 inch FHD (1920x1080) IPS, 120 Hz, anti-glare
+- Battery Life: Up to 14 hours
+- Weight: 1.7 kg (3.7 lbs)
+- Operating System: Windows 11 Pro
+- Ports: 2x USB-A 3.2, 2x USB-C (Thunderbolt 4), HDMI 2.0, SD card reader, 3.5mm audio
+- Connectivity: Wi-Fi 6E (802.11axe), Bluetooth 5.2
+- Webcam: 1080p Full HD with IR facial recognition
+- Backlit Keyboard: Yes, white LED
+- Colour: Space Grey or Navy Blue
+- Fingerprint Reader: Yes
+
+---
+
+PROBOOK X2 - $1,199
+Best for: Creators, developers, and power users needing maximum performance.
+
+Specifications:
+- Processor: Intel Core i9-1355U (10 cores, up to 5.4 GHz)
+- RAM: 32 GB LPDDR5 (upgradeable to 64 GB)
+- Storage: 1 TB NVMe SSD
+- Display: 16 inch 2K QHD (2560x1600) IPS, 165 Hz, sRGB 100%, anti-glare
+- GPU: NVIDIA GeForce RTX 3050 (4 GB GDDR6)
+- Battery Life: Up to 12 hours
+- Weight: 2.1 kg (4.6 lbs)
+- Operating System: Windows 11 Pro
+- Ports: 3x USB-A 3.2, 2x Thunderbolt 4, HDMI 2.1, SD card reader, RJ-45 Ethernet, 3.5mm audio
+- Connectivity: Wi-Fi 6E (802.11axe), Bluetooth 5.3
+- Webcam: 1080p Full HD with IR facial recognition and privacy shutter
+- Backlit Keyboard: Yes, RGB per-key backlighting
+- Colour: Graphite Black
+- Fingerprint Reader: Yes
+- Included: USB-C to USB-A adapter, cleaning cloth
+
+---
+
+SOFTWARE SUBSCRIPTION PLANS
+
+Basic Plan - $9.99 per month
+- Cloud Storage: 10 GB
+- Devices: 1 device
+- Support: Email support only
+- Apps: TechMart Write, TechMart Sheet, TechMart Slides (basic features)
+- TechMart Vault: 10 GB encrypted storage
+- Offline Access: No
+
+Pro Plan - $29.99 per month
+- Cloud Storage: 100 GB
+- Devices: Up to 3 devices
+- Support: Email and live chat
+- Apps: All apps including TechMart Meet (up to 50 participants), TechMart Vault Pro
+- Offline Access: Yes
+- File Versioning: Up to 30 versions
+- Custom Branding: No
+
+Premium Plan - $49.99 per month
+- Cloud Storage: 1 TB
+- Devices: Unlimited
+- Support: Priority phone support (Mon-Fri, 9 am - 6 pm EST)
+- Apps: All apps including TechMart AI Assistant, TechMart Meet (up to 200 participants)
+- Offline Access: Yes
+- File Versioning: Unlimited
+- Advanced Analytics: Yes
+- Custom Domain: Yes
+
+---
+
+ACCESSORIES
+
+TechMart Wireless Mouse - $29.99
+Ergonomic design, 6-button, 2.4 GHz wireless, DPI 800/1200/1600/2400, 12-month battery life.
+Compatible with all TechMart ProBook models and any device with a USB-A port.
+
+TechMart Mechanical Keyboard - $79.99
+Compact TKL (tenkeyless) layout, blue switches, RGB backlight, USB-A connection.
+N-key rollover for gaming and fast typing. Detachable braided cable.
+
+USB-C Docking Station (7-in-1) - $59.99
+Ports: HDMI 4K@30Hz, 3x USB-A 3.0, USB-C Power Delivery (100W pass-through), SD card, microSD card.
+Plug-and-play, no drivers required. Compatible with all Thunderbolt 4 and USB-C laptops.
+
+ProBook Laptop Bag (15 inch) - $39.99
+Water-resistant nylon, padded laptop compartment (fits up to 15.6 inch), multiple organisational pockets,
+carry handle and adjustable shoulder strap. Available in Black and Grey.
+
+65W USB-C Charger - $34.99
+GaN (Gallium Nitride) technology for compact size, foldable prongs.
+Compatible with all ProBook models and any USB-C device. LED indicator light.
+Includes 1.8m USB-C cable.

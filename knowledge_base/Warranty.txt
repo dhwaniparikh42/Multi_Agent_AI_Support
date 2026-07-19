@@ -1,0 +1,87 @@
+TECHMART ELECTRONICS - WARRANTY INFORMATION
+===========================================
+
+STANDARD LIMITED WARRANTY
+All TechMart Electronics hardware products are covered by a 1-year Limited Warranty from the
+date of original purchase. This warranty covers defects in materials and workmanship under
+normal use conditions.
+
+---
+
+WHAT IS COVERED
+- Manufacturing defects in hardware components.
+- Faulty display screens (dead pixels exceeding 5 per panel).
+- Battery defects (capacity falling below 80% within the first year under normal use).
+- Keyboard, trackpad, and port malfunctions not caused by physical damage.
+- Internal component failures (RAM, SSD, motherboard) under normal use.
+- Software bugs present at the time of purchase.
+
+---
+
+WHAT IS NOT COVERED
+- Physical damage from drops, spills, or misuse.
+- Damage from unauthorised modifications or repairs.
+- Cosmetic damage such as scratches, dents, or broken plastic.
+- Damage caused by operating outside permitted environmental conditions.
+- Consumable parts such as batteries after 1 year of use.
+- Software issues, viruses, or data loss caused by user actions.
+- Theft or loss of the device.
+- Damage caused by third-party accessories not approved by TechMart.
+
+---
+
+EXTENDED WARRANTY - TECHMART CARE+
+TechMart Care+ extends your warranty coverage and adds accidental damage protection.
+
+Plan                                          | Price (one-time)
+TechMart Care+ 2-Year                        | $79.99
+TechMart Care+ 3-Year                        | $129.99
+TechMart Care+ 3-Year with Accidental Damage | $179.99
+
+TechMart Care+ with Accidental Damage covers:
+- Screen cracks and broken displays from drops.
+- Liquid damage from spills.
+- One accidental damage claim per year.
+- All standard warranty coverage.
+
+TechMart Care+ must be purchased within 30 days of the product purchase date.
+
+---
+
+HOW TO CLAIM YOUR WARRANTY
+Step 1: Contact support@techmart.example or call 1-800-555-0100.
+Step 2: Provide your order number, serial number, and a description of the issue.
+Step 3: Our team will diagnose the issue remotely (usually within 24 hours).
+Step 4: If the issue cannot be resolved remotely, we will issue a prepaid shipping label.
+Step 5: Send the device to our repair centre. Repair or replacement takes 5-10 business days.
+Step 6: Your device will be returned to you with free shipping.
+
+For accidental damage claims under TechMart Care+, photos of the damage are required before
+sending the device in for repair.
+
+---
+
+WARRANTY TRANSFERABILITY
+The TechMart standard 1-year warranty is transferable to a new owner if the product is sold
+or gifted within the warranty period. The warranty period does not reset upon transfer.
+TechMart Care+ extended warranty plans are non-transferable.
+
+---
+
+OUT-OF-WARRANTY REPAIRS
+For devices outside the warranty period, TechMart offers paid repair services.
+- Diagnostic fee: $49 (waived if repair is approved)
+- Screen replacement: $149 - $249 depending on model
+- Battery replacement: $79
+- Keyboard replacement: $99
+- Motherboard repair: $199 - $349
+
+Contact warranty@techmart.example for an out-of-warranty repair quote.
+
+---
+
+CONTACT FOR WARRANTY CLAIMS
+Email: warranty@techmart.example
+Phone: 1-800-555-0100 (Mon-Fri, 9 am - 6 pm EST)
+Please have your order number and serial number ready when contacting us.
+Serial number can be found on the bottom of the device or in Settings > About.

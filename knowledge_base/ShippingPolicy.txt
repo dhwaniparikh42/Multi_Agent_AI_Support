@@ -1,0 +1,77 @@
+TECHMART ELECTRONICS - SHIPPING POLICY
+=======================================
+
+DOMESTIC SHIPPING (UNITED STATES)
+Shipping Option              | Estimated Delivery    | Cost
+Standard Shipping            | 3-5 business days     | $6.99
+Express Shipping             | 1-2 business days     | $14.99
+Overnight Shipping           | Next business day     | $24.99 (order by 2 pm EST)
+Free Standard Shipping       | 3-5 business days     | Free on orders over $99
+
+---
+
+SHIPPING COSTS BY ORDER VALUE
+Order Value        | Standard Shipping  | Express Shipping
+Under $99          | $6.99              | $14.99
+$99 - $499         | FREE               | $9.99
+$500 and above     | FREE               | FREE
+
+---
+
+INTERNATIONAL SHIPPING
+TechMart ships to over 50 countries. International delivery times and costs vary by destination.
+
+Region                  | Estimated Delivery Time
+Canada and Mexico       | 5-8 business days
+Europe                  | 7-12 business days
+Asia-Pacific            | 10-15 business days
+Rest of World           | 12-20 business days
+
+International shipping costs are calculated at checkout based on destination and package weight.
+Import duties and customs fees are the buyer's responsibility and are not included in the price.
+
+---
+
+ORDER PROCESSING
+Orders placed before 2:00 pm EST on a business day are processed the same day.
+Orders placed after 2:00 pm EST, or on weekends and public holidays, are processed the next business day.
+You will receive a shipping confirmation email with a tracking number once your order is dispatched.
+During peak seasons (November-December), processing may take an additional 1-2 business days.
+
+---
+
+TRACKING YOUR ORDER
+All orders include free tracking. Your tracking number will be emailed within 24 hours of shipment.
+You can also view tracking in your TechMart account under My Orders.
+Tracking updates may take up to 24 hours to appear after shipment.
+
+---
+
+LOST OR STOLEN PACKAGES
+If your tracking shows Delivered but you have not received your package:
+1. Check with neighbours and building management.
+2. Wait 24 hours in case of early delivery scans.
+3. Contact us at support@techmart.example with your order number.
+We will open a carrier investigation within 1 business day.
+If the package is confirmed lost, we will reship or issue a full refund at no extra cost.
+
+---
+
+ADDRESS CHANGES
+Shipping addresses can only be changed before the order is shipped.
+Contact support@techmart.example immediately after placing the order to request a change.
+Once shipped, address changes are at the carrier's discretion and may incur additional fees.
+
+---
+
+PO BOXES AND APO/FPO ADDRESSES
+Standard shipping is available to PO boxes and APO/FPO addresses via USPS.
+Express and overnight shipping are not available for these addresses.
+Delivery to APO/FPO addresses may take 7-21 days depending on location.
+
+---
+
+CONTACT FOR SHIPPING INQUIRIES
+Email: support@techmart.example
+Phone: 1-800-555-0100 (Mon-Fri, 9 am - 6 pm EST)
+Please have your order number and tracking number ready.

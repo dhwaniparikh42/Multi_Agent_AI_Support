@@ -1,0 +1,188 @@
+TECHMART ELECTRONICS - USER MANUAL
+====================================
+
+WELCOME TO TECHMART ELECTRONICS
+This manual covers account setup, the TechMart dashboard, subscription management,
+and how to get the most out of your TechMart products and services.
+
+---
+
+CHAPTER 1 - CREATING AND SETTING UP YOUR ACCOUNT
+
+1. Visit techmart.example and click Sign Up.
+2. Enter your full name, email address, and a strong password.
+   - Minimum 8 characters
+   - Must include at least one number and one special character
+3. Check your email for a verification link and click it within 24 hours.
+4. Complete your profile by adding your phone number and billing address.
+5. Enable Two-Factor Authentication (2FA) under Settings > Security for added protection.
+
+Password requirements:
+- Minimum 8 characters
+- At least one uppercase letter
+- At least one number
+- At least one special character (e.g., !, @, #, $)
+
+If you forget your password, click Forgot Password on the login page and follow the instructions.
+A reset link will be sent to your email and expires after 30 minutes.
+
+---
+
+CHAPTER 2 - NAVIGATING THE DASHBOARD
+
+Home
+Overview of your active subscriptions, recent orders, quick actions, and notifications.
+
+My Orders
+Full order history with tracking information, invoice downloads, and return requests.
+
+My Products
+Software downloads, licence keys, and subscription management.
+This is where you upgrade, downgrade, or cancel your plan.
+
+Support
+Open a support ticket, start a live chat, or browse the Help Center.
+
+Account Settings
+Update personal details, password, 2FA settings, and notification preferences.
+
+Billing
+View payment history, update your payment method, and manage auto-renewal settings.
+Download invoices for any past transaction as a PDF.
+
+---
+
+CHAPTER 3 - MANAGING YOUR SUBSCRIPTION
+
+To upgrade or downgrade your plan:
+1. Go to My Products > Manage Subscription.
+2. Select the new plan and click Switch Plan.
+3. Upgrades take effect immediately. You are charged a prorated amount for the remainder
+   of the current billing cycle.
+4. Downgrades take effect at the start of the next billing cycle.
+
+To cancel your subscription:
+1. Go to My Products > Manage Subscription > Cancel Plan.
+2. Select a cancellation reason and confirm.
+3. Your subscription remains active until the end of the paid period.
+
+Auto-renewal:
+Subscriptions auto-renew by default. To disable auto-renewal, go to Billing > Auto-Renewal
+and toggle it off. You will receive a reminder email 7 days before your renewal date.
+
+---
+
+CHAPTER 4 - TECHMART SUITE APPLICATIONS
+
+TechMart Write
+Word processor with real-time collaboration, cloud sync, and document templates.
+Supports .docx, .pdf, and .odt file formats.
+
+TechMart Sheet
+Spreadsheet application with built-in charting, pivot tables, and formula engine.
+Compatible with .xlsx and .csv files.
+
+TechMart Slides
+Presentation tool with 50+ professional templates, animation, and export to PDF or PowerPoint.
+
+TechMart Vault
+Encrypted cloud storage with file versioning (up to 30 versions on Pro, unlimited on Premium).
+Files are encrypted with AES-256 before upload.
+
+TechMart Meet
+Video conferencing for up to 50 participants (Pro) or 200 participants (Premium).
+Features: screen sharing, recording, virtual backgrounds, breakout rooms.
+
+TechMart AI Assistant (Premium only)
+AI-powered writing suggestions, grammar correction, data summarisation, and report generation.
+Accessible within TechMart Write and TechMart Sheet via the AI button in the toolbar.
+
+---
+
+CHAPTER 5 - CLOUD STORAGE AND FILE MANAGEMENT
+
+Storage limits:
+- Basic: 10 GB
+- Pro: 100 GB
+- Premium: 1 TB
+
+Files are automatically synced when connected to the internet.
+Offline access can be enabled by right-clicking a file and selecting Make Available Offline.
+File deletions are recoverable from the Trash folder for 30 days.
+
+Sharing files:
+Click the Share button on any file. Enter the recipient's email address and set permissions:
+- View only
+- Comment
+- Edit
+
+Shared links can be set to expire after 1, 7, or 30 days.
+
+---
+
+CHAPTER 6 - SECURITY BEST PRACTICES
+
+- Enable Two-Factor Authentication (2FA) using an authenticator app such as Google Authenticator.
+- Never share your password or licence key with anyone, including TechMart staff.
+- Use a unique password for your TechMart account.
+- Log out of shared or public devices after use via Settings > Security > Sign Out All Devices.
+- Review active sessions under Settings > Security > Active Sessions and revoke unfamiliar ones.
+- Do not click suspicious links claiming to be from TechMart. We will never ask for your
+  password via email or chat.
+
+---
+
+CHAPTER 7 - GETTING HELP AND SUPPORT
+
+Help Center
+Browse thousands of articles at help.techmart.example (available 24/7).
+
+Live Chat
+Available from the Support tab in your dashboard, Monday to Friday, 9 am to 6 pm EST.
+
+Email Support
+Contact support@techmart.example. We aim to respond within 24 hours on business days.
+
+Phone Support
+Call 1-800-555-0100 (Monday to Friday, 9 am to 6 pm EST).
+Priority support for Pro and Premium subscribers with shorter wait times.
+
+Community Forum
+Visit community.techmart.example to ask questions and share tips with other users.
+
+---
+
+CHAPTER 8 - KEYBOARD SHORTCUTS
+
+Action                  | Windows        | Mac
+New Document            | Ctrl+N         | Cmd+N
+Save                    | Ctrl+S         | Cmd+S
+Search                  | Ctrl+F         | Cmd+F
+Settings                | Ctrl+Comma     | Cmd+Comma
+Upload File             | Ctrl+U         | Cmd+U
+Logout                  | Ctrl+Shift+Q   | Cmd+Shift+Q
+Bold text               | Ctrl+B         | Cmd+B
+Undo                    | Ctrl+Z         | Cmd+Z
+Redo                    | Ctrl+Y         | Cmd+Shift+Z
+Select All              | Ctrl+A         | Cmd+A
+
+---
+
+CHAPTER 9 - HARDWARE CARE TIPS (PROBOOK SERIES)
+
+- Clean the screen with a soft, dry microfibre cloth. Do not use liquids directly on the screen.
+- Keep vents unobstructed to prevent overheating. Do not use on soft surfaces like beds or sofas.
+- Charge using only the official TechMart 65W USB-C charger or a certified Thunderbolt 4 charger.
+- Store the laptop in a temperature range of 0°C to 35°C (32°F to 95°F).
+- Do not expose to extreme humidity or direct sunlight for extended periods.
+- For long-term storage (more than 3 months), charge the battery to 50% before storing.
+- Battery calibration: let the battery drain fully once per month for best longevity.
+
+---
+
+CONTACT INFORMATION
+Email: support@techmart.example
+Phone: 1-800-555-0100
+Hours: Monday to Friday, 9:00 am to 6:00 pm Eastern Standard Time
+Website: techmart.example
+Help Center: help.techmart.example
