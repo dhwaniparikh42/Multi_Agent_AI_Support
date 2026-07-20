@@ -3,7 +3,7 @@ import os
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_openai import OpenAIEmbeddings
 
 # Absolute path to the knowledge_base folder (two levels up from this file)
 KNOWLEDGE_BASE_DIR = os.path.abspath(
@@ -17,11 +17,11 @@ FAISS_INDEX_PATH = os.path.join(os.path.dirname(__file__), "faiss_index")
 _vector_store = None
 
 
-def _get_embeddings() -> HuggingFaceEmbeddings:
-    """Load the sentence-transformer embedding model (downloads on first use)."""
-    return HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2",
-        model_kwargs={"device": "cpu"},
+def _get_embeddings() -> OpenAIEmbeddings:
+    """Use OpenAI's hosted embeddings API instead of a local model to keep memory usage low."""
+    return OpenAIEmbeddings(
+        model="text-embedding-3-small",
+        api_key=os.getenv("OPENAI_API_KEY"),
     )
 
 
